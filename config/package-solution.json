@@ -13,6 +13,10 @@
       },
       {
         "resource": "Microsoft Graph",
+        "scope": "Calendars.Write"
+      },
+      {
+        "resource": "Microsoft Graph",
         "scope": "User.ReadBasic.All"
       }
     ]
